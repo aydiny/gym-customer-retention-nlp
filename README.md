@@ -1,7 +1,7 @@
 # AI-Driven Customer Retention: Advanced NLP on Gym Reviews 🏋️‍♂️
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/af0281ac-7b69-4d75-9de8-e0a3d8109b9c" />
-
 > **Leveraging BERTopic, Emotion AI, and Local LLMs (Phi4) to uncover operational failures and churn drivers.**
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/af0281ac-7b69-4d75-9de8-e0a3d8109b9c" />
 
 ![Status](https://img.shields.io/badge/Status-Research_Prototype-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
