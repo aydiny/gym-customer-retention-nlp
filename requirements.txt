@@ -1,0 +1,29 @@
+# Data Manipulation & Math
+pandas
+numpy
+regex
+
+# Visualization
+matplotlib
+seaborn
+plotly
+wordcloud
+
+# Machine Learning & NLP (Core)
+scikit-learn
+nltk
+spacy
+gensim
+
+# Advanced NLP (Transformers & BERTopic)
+transformers
+sentence-transformers
+bertopic
+hdbscan
+
+# LLM Integration
+ollama
+
+# Utilities
+tqdm
+ipywidgets
