@@ -39,5 +39,13 @@ The analysis is contained in a Jupyter Notebook implementing the following pipel
 4.  **Generative AI Integration (RAG-style):**
     *   **Model:** Phi4-mini (3.8 billion parameters) running locally via **Ollama**.
     *   **Task:** Fed cluster keywords and representative documents to the LLM to generate executive summaries and maintenance tickets automatically.
+
+## 📂 Project Structure
+
+```text
+├── notebooks/
+├── requirements.txt        # Dependencies
+└── README.md               # Documentation
+
 ---
 *Author: Ali Aydin Yildiz*
